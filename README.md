@@ -1,22 +1,31 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aadi%20Burande&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20AI%2FML%20%26%20Data%20Science%20Enthusiast&descAlignY=55&descSize=18"/>
-
+<!-- HEADER -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=160&section=header&text=Aadi%20Burande&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Data%20Science&descAlignY=58&descSize=16&descColor=8b949e" />
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=650&lines=🤖+Building+Intelligent+Systems+from+Scratch;🔬+Machine+Learning+%26+Deep+Learning+Explorer;📊+Turning+Raw+Data+into+Real+Insights;⚡+Backend+APIs+%2B+ML+Models+%3D+Magic" alt="Typing SVG" />
+<!-- TYPING BANNER -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&height=45&lines=Building+ML-powered+backend+systems+%F0%9F%94%AC;Deep+Learning+%7C+NLP+%7C+Computer+Vision+%F0%9F%A4%96;Turning+raw+data+into+real+intelligence+%F0%9F%93%8A;Python+%2B+Neural+Nets+%2B+Good+APIs+%3D+%E2%9C%A8" alt="typing" />
+</div>
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=AadiBurande&label=Profile+Views&color=0e75b6&style=flat)](https://github.com/AadiBurande)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/AadiBurande?label=Followers&style=social)](https://github.com/AadiBurande?tab=followers)
-&nbsp;
-[![GitHub stars](https://img.shields.io/github/stars/AadiBurande?label=Stars&style=social)](https://github.com/AadiBurande)
+<!-- BADGES ROW -->
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=AadiBurande&label=Profile+Views&color=58a6ff&style=flat-square)](https://github.com/AadiBurande)
+&nbsp;&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/AadiBurande?label=Followers&style=flat-square&color=58a6ff)](https://github.com/AadiBurande)
+&nbsp;&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/AadiBurande?label=Stars&style=flat-square&color=f0e68c)](https://github.com/AadiBurande)
 
 </div>
 
+<br/>
+
 ---
 
-## 🧬 About Me
+## 👨‍💻 About Me
 
 ```python
 class AadiBurande:
@@ -25,22 +34,21 @@ class AadiBurande:
     role        =  "Backend Developer  |  AI/ML & Data Science"
     location    =  "India 🇮🇳"
 
-    # ── Interests ─────────────────────────────────────────────
+    # ── Core Interests ──────────────────────────────────────────
     ai_ml       =  ["Machine Learning", "Deep Learning",
                     "NLP", "Computer Vision", "LLMs"]
     data_sci    =  ["EDA", "Feature Engineering",
                     "Data Visualization", "Model Deployment"]
 
-    # ── Stack ──────────────────────────────────────────────────
+    # ── Tech Stack ───────────────────────────────────────────────
     backend     =  ["Python", "Django", "Flask",
-                    "Node.js", "Express", "REST APIs"]
+                    "Node.js", "Express"]
     databases   =  ["PostgreSQL", "MongoDB", "Redis"]
-    mlops       =  ["Docker", "Git", "Jupyter", "Linux"]
+    tools       =  ["Docker", "Git", "Jupyter", "Linux"]
 
-    # ── Currently ──────────────────────────────────────────────
+    # ── Currently ────────────────────────────────────────────────
     building    =  "ML-powered backend APIs 🔬"
-    learning    =  ["LLMs & Prompt Engineering",
-                    "MLOps", "Vector DBs (FAISS, Pinecone)"]
+    learning    =  ["LLMs", "MLOps", "Vector DBs (FAISS, Pinecone)"]
     fun_fact    =  "I train models at midnight 🌙"
 
     def say_hi(self):
@@ -49,72 +57,44 @@ class AadiBurande:
 
 ---
 
-## 🤖 AI / ML & Data Science
+## 🚀 Featured Projects
 
-<div align="center">
-
-### 🔬 ML / DL Frameworks
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org)
-
-### 📊 Data Science & Analysis
-
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org)
-[![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
-[![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21F?style=for-the-badge)](https://huggingface.co)
-
-### ⚙️ Backend & DevOps
-
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://djangoproject.com)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
-[![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
-
-</div>
+| Project | Description | Stack |
+|---|---|---|
+| 🤖 [**code-review-assistant**](https://github.com/AadiBurande/code-review-assistant) | AI-powered multi-agent code review system — detects bugs, security vulnerabilities & style violations | `Python` `LangChain` `LangGraph` `FastAPI` `Ollama` |
+| 🛰 [**Satellite-path-error-prediction**](https://github.com/AadiBurande/Satellite-path-error-prediction-model-) | Predictive modeling of GNSS satellite clock & ephemeris errors using XGBoost for positioning accuracy | `Python` `XGBoost` `Pandas` `Scikit-learn` |
+| 🧠 [**Project-empath**](https://github.com/AadiBurande/Project-empath) | AI-driven system to understand human emotions with nuance — processes facial expressions & voice | `Python` `Deep Learning` `Computer Vision` `NLP` |
+| 🔐 [**pentesting-agent**](https://github.com/AadiBurande/pentesting-agent) | Automated AI agent for penetration testing workflows | `Python` `AI Agents` |
 
 ---
 
-## 🔭 What I Build
+## 🛠 Tech Stack
 
-<div align="center">
+**AI / ML & Data Science**
 
-| 🧠 Domain | 🛠 What I Do |
-|-----------|-------------|
-| **ML Models** | Classification · Regression · Clustering · Deep Learning |
-| **Data Pipelines** | ETL · EDA · Feature Engineering · Preprocessing |
-| **NLP Systems** | Text Classification · Chatbots · Transformers |
-| **Computer Vision** | Object Detection · CNNs · Image Processing |
-| **ML APIs** | Model Serving via Flask / Django / FastAPI |
-| **Data Dashboards** | Visualization · Insights · Business Reports |
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21F?style=flat-square&logoColor=black)
 
-</div>
+**Backend & DevOps**
 
----
-
-## 📡 Currently Learning
-
-<div align="center">
-
-![LLMs](https://img.shields.io/badge/LLMs%20%26%20Prompt%20Engineering-60%25-00D9FF?style=flat-square&labelColor=0d1117)
-![MLOps](https://img.shields.io/badge/MLOps%20%26%20Model%20Deployment-35%25-7b2fff?style=flat-square&labelColor=0d1117)
-![Cloud AI](https://img.shields.io/badge/Cloud%20AI%20(AWS%2FGCP)-42%25-00D9FF?style=flat-square&labelColor=0d1117)
-![Vector DBs](https://img.shields.io/badge/Vector%20DBs%20(FAISS%2C%20Pinecone)-28%25-7b2fff?style=flat-square&labelColor=0d1117)
-![System Design](https://img.shields.io/badge/System%20Design%20for%20ML-48%25-00D9FF?style=flat-square&labelColor=0d1117)
-
-</div>
-
-> 💡 *"The best model is the one that ships."* — Always iterating.
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
@@ -122,71 +102,52 @@ class AadiBurande:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AadiBurande&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=00d9ff&icon_color=7b2fff&text_color=c9d1d9&bg_color=0d1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AadiBurande&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadiBurande&layout=compact&theme=tokyonight&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadiBurande&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=8b949e&bg_color=0d1117&langs_count=6" />
 
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AadiBurande&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=7b2fff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=c9d1d9"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AadiBurande&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AadiBurande&bg_color=0d1117&color=00d9ff&line=7b2fff&point=00d9ff&area=true&hide_border=true&area_color=7b2fff"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AadiBurande&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1a1a2e&hide_border=true" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📡 Currently Learning
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AadiBurande&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
-
-</div>
-
----
-
-## 💡 Fun Fact
-
-```bash
-$ cat fun_fact.txt
-
-  I don't just write code — I teach machines to think.
-  Every dataset tells a story. I just help it speak. 📖 🤖
-
-  Most used libraries:  sklearn, pandas, torch
-  Favourite command:    jupyter notebook
-  Secret weapon:        coffee.py ☕
+```
+🧠  LLMs & Prompt Engineering     ████████████░░░░░░░░  60%
+☁️  Cloud AI (AWS / GCP)          ████████░░░░░░░░░░░░  42%
+⚙️  System Design for ML          █████████░░░░░░░░░░░  48%
+🚀  MLOps & Model Deployment      ███████░░░░░░░░░░░░░  35%
+🔍  Vector DBs (FAISS, Pinecone)  █████░░░░░░░░░░░░░░░  28%
 ```
 
 ---
 
-## 🌐 Connect With Me
+## 💬 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AadiBurande)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR_KAGGLE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO.dev)
 
 </div>
 
----
+<br/>
+
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" />
+</div>
 
 <div align="center">
-
-```python
-# while alive: eat() → sleep() → code() → train_models() → repeat()
-```
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
+  <sub>⚡ <i>while alive: eat() → sleep() → code() → train_models() → repeat()</i> ⚡</sub>
 </div>
